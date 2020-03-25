@@ -187,3 +187,4 @@ curses.endwin()
 print('\n\n\n')
 print(f'Votre score est de : {score}')
 print('\n\n\n')
+
